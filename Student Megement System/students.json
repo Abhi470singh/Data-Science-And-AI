@@ -1,0 +1,23 @@
+[
+    {
+        "roll_no": "01",
+        "name": "Abhishek Kumar",
+        "age": "23",
+        "course": "B tech",
+        "marks": "7.51"
+    },
+    {
+        "roll_no": "02",
+        "name": "Sonu",
+        "age": "24",
+        "course": "Btech",
+        "marks": "80"
+    },
+    {
+        "roll_no": "03",
+        "name": "Ravi Kumar",
+        "age": "30",
+        "course": "B tech",
+        "marks": "90"
+    }
+]
