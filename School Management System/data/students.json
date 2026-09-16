@@ -1,0 +1,24 @@
+[
+    {
+        "id": "S001",
+        "name": "Abhishek Kumar",
+        "age": 24,
+        "class": "1st",
+        "section": "A",
+        "phone": "6205988470",
+        "attendance": 0,
+        "marks": {},
+        "fee": 0
+    },
+    {
+        "id": "S002",
+        "name": "Sonu",
+        "age": 45,
+        "class": "@nd",
+        "section": "A",
+        "phone": "1234567890",
+        "attendance": 0,
+        "marks": {},
+        "fee": 0
+    }
+]

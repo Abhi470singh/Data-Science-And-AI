@@ -1,0 +1,9 @@
+[
+    {
+        "id": "C001",
+        "course_name": "ECE",
+        "teacher": "",
+        "duration": "6 Month",
+        "fee": 30000.0
+    }
+]

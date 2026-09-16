@@ -1,0 +1,11 @@
+[
+    {
+        "id": "T001",
+        "name": "Sonu",
+        "subject": "English",
+        "qualification": "M tech",
+        "experience": 5,
+        "salary": 200000.0,
+        "phone": "9876543210"
+    }
+]
