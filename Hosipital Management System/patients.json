@@ -1,0 +1,9 @@
+[
+    {
+        "patient_id": "01",
+        "name": "Abhishek Kumar",
+        "age": 24,
+        "gender": "Male",
+        "disease": "Eye"
+    }
+]
